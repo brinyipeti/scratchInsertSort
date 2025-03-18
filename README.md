@@ -1,0 +1,2 @@
+# scratchInsertSort
+Beszúrórendezést alkalmaz
