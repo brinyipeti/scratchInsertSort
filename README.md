@@ -1,5 +1,10 @@
 # scratchInsertSort
+
+
 Beszúró rendezést alkalmaz egy adott listára(tömbre) azaz növekvő sorrendbe rakja n darab szám sorozatát.<br>
+> [!Important]
+> A lista elemei random generáltak, n darab.
+<br>
 Miután rendezve van a lista,
 az egyik sprite (kártya sprite) kártyákat kezd el pakolni növekvő sorrendbe jelezve hogy a lista rendezve van.
 <br>
@@ -26,6 +31,7 @@ permutációja hogy
 ```
 <a1' < a2' < ... < an'>
 ```
+
 
 > [!NOTE]
 > Tehát a kártyák csak egy vizuális kiegészítés a rendezés végére.
