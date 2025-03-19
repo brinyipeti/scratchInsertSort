@@ -12,7 +12,8 @@ Miután a kátyák le lettek pakolva, a második sprite (bogár) azt mondja hogy
 <br>
 Ezután kisétál 100 move onként az ablak szélére és eltünik.
 <br>
-[Scratch Projekt](https://scratch.mit.edu/projects/1148579574/)
+<br>
+[Scratch Projekt](https://scratch.mit.edu/projects/1148579574)
 [Wikipédia beszúrásos rendezés](https://hu.wikipedia.org/wiki/Besz%C3%BAr%C3%A1sos_rendez%C3%A9s)
 
 ![https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/brinyipeti/scratchInsertSort/blob/main/scrachprojbg.png)
