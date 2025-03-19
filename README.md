@@ -3,7 +3,7 @@
 
 Beszúró rendezést alkalmaz egy adott listára(tömbre) azaz növekvő sorrendbe rakja n darab szám sorozatát.<br>
 > [!Important]
-> A lista elemei random generáltak, n darab.
+> A lista elemei random generáltak, n darab ahol n is random generált egész (ami a lista hossza).
 <br>
 Miután rendezve van a lista,
 az egyik sprite (kártya sprite) kártyákat kezd el pakolni növekvő sorrendbe jelezve hogy a lista rendezve van.
