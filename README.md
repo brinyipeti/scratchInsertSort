@@ -5,7 +5,7 @@ az egyik sprite (kártya sprite) kártyákat kezd el pakolni növekvő sorrendbe
 <br>
 Miután a kátyák le lettek pakolva, a második sprite (bogár) azt mondja hogy rendezve van 2 másodpercig.
 <br>
-Ezután kisétál 100 move onként a kijelző szélére és eltünik.
+Ezután kisétál 100 move onként az ablak szélére és eltünik.
 <br>
 
 [Wikipédia beszúrásos rendezés](https://hu.wikipedia.org/wiki/Besz%C3%BAr%C3%A1sos_rendez%C3%A9s)
