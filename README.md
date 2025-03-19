@@ -11,10 +11,10 @@ az egyik sprite (kártya sprite) kártyákat kezd el pakolni növekvő sorrendbe
 Miután a kátyák le lettek pakolva, a második sprite (bogár) azt mondja hogy rendezve van 2 másodpercig.
 <br>
 Ezután kisétál 100 move onként az ablak szélére és eltünik.
-<br>
+
+[Wikipédia beszúrásos rendezés](https://hu.wikipedia.org/wiki/Besz%C3%BAr%C3%A1sos_rendez%C3%A9s)
 <br>
 [Scratch Projekt](https://scratch.mit.edu/projects/1148579574)
-[Wikipédia beszúrásos rendezés](https://hu.wikipedia.org/wiki/Besz%C3%BAr%C3%A1sos_rendez%C3%A9s)
 
 ![https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/brinyipeti/scratchInsertSort/blob/main/scrachprojbg.png)
 ## Tehát a kártyák csak ezt imitálják hogy:
