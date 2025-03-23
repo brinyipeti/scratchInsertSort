@@ -14,7 +14,7 @@ Ezután kisétál 100 move onként az ablak szélére és eltünik.
 
 [Wikipédia beszúrásos rendezés](https://hu.wikipedia.org/wiki/Besz%C3%BAr%C3%A1sos_rendez%C3%A9s)
 <br>
-[Scratch Projekt](https://scratch.mit.edu/projects/1148579574)
+[Scratch Projekthez kattints ide!](https://scratch.mit.edu/projects/1148579574)
 
 ![https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/brinyipeti/scratchInsertSort/blob/main/scrachprojbg.png)
 ## Tehát a kártyák csak ezt imitálják hogy:
